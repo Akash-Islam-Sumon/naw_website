@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange {
+    color: orange;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.fast {
+    display: flex;
+    margin-bottom: 10%;
+    background-image: url(images/image/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.Hire_me {
+    text-decoration: none;
+    background-color: #ffa500;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.dream {
+    display: flex;
+    background-image: url(images/image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.Resume {
+    text-decoration: none;
+    padding: 10px 50px;
+    background-color: orange;
+    color: white;
+}
